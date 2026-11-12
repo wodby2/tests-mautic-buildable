@@ -38,3 +38,4 @@
 
 # The test plugin of this fixture.
 !/docroot/plugins/WodbyHelloBundle/
+!/docroot/plugins/WodbyExtraBundle/
