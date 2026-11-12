@@ -35,3 +35,6 @@
 
 .idea/
 .DS_Store
+
+# The test plugin of this fixture.
+!/docroot/plugins/WodbyHelloBundle/
